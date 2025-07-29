@@ -69,8 +69,6 @@ An AI-powered assistant for recruiting agencies that chats with clients, underst
 
 ┣ 📜 smart\_agent\_app.py # Streamlit UI for chat interface
 
-┣ 📜 .env # Stores OpenAI API key
-
 ┣ 📜 view\_structured\_log.py #code to view the structured log
 
 ┣ 📜 hiring\_data.db# SQLite DB storing structured hiring data
