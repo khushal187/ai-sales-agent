@@ -75,6 +75,12 @@ An AI-powered assistant for recruiting agencies that chats with clients, underst
 
 ┣ 📜 conversation\_log\_\*.txt # Text logs of each client conversation
 
+
+### 🔐 Environment Variables
+Create a `.env` file in the root directory with your OpenAI API key:
+
+
+
 ┣ 📜 README.md
 
 
